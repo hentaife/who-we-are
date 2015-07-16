@@ -32,3 +32,9 @@ self introduction
 - Portrait: ![portrait](http://7xi66m.com1.z0.glb.clouddn.com/portrait.jpg)
 - Desc: 努力入门的前端
 - Blog: <http://chyancheng.github.io>
+
+### HentaiJS-乃乃
+- Name: ihindng
+- Portrait: ![portrait](http://i1.tietuku.com/a4f216ad1dc4f173.jpg)
+- Desc: 妈个鸡我要写什么
+- Blog: <http://chenyix.in>
