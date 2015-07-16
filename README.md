@@ -26,3 +26,9 @@ self introduction
 - Portrait: ![portrait](http://www.yangshuai.net/wp-content/uploads/2012/01/812.jpg)
 - Desc: 一只自学前端的小菜鸟
 - Blog: <http://fanhuirong321.farbox.com>
+
+### HentaiJS-芊芊
+- Name: chyancheng
+- Portrait: ![portrait](http://7xi66m.com1.z0.glb.clouddn.com/chyancheng.jpg)
+- Desc: 努力入门的前端
+- Blog: <http://chyancheng.github.io>
