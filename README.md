@@ -16,6 +16,6 @@ self introduction
 
 ### HentaiCSS-Nighting
 - Name: Nighting
-- Portrait: ![portrait](images/nighting.png)
+- Portrait: ![portrait](images/nighting.jpg)
 - Desc: 自救着的前端渣
 - Blog: <http://www.nighting.cf>
