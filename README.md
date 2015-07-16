@@ -47,6 +47,6 @@ self introduction
 
 ### HentaiJS-箱子
 - Name: TinyBox
-- Portrait: ![portrait](images/nighting.jpg)
+- Portrait: ![portrait](images/tinybox.jpg)
 - Desc: 一身杂技的玩家
 - Blog: <http://www.cnblogs.com/TinyBox>
