@@ -19,3 +19,9 @@ self introduction
 - Portrait: ![portrait](images/nighting.jpg)
 - Desc: 自救着的前端渣
 - Blog: <http://www.nighting.cf>
+- 
+### HentaiCSS-困困
+- Name: 困困
+- Portrait: ![portrait](http://www.yangshuai.net/wp-content/uploads/2012/01/812.jpg)
+- Desc: 一只自学前端的小菜鸟
+- Blog: <http://fanhuirong321.farbox.com>
