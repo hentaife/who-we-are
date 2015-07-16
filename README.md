@@ -38,3 +38,9 @@ self introduction
 - Portrait: ![portrait](http://i1.tietuku.com/a4f216ad1dc4f173.jpg)
 - Desc: 妈个鸡我要写什么
 - Blog: <http://chenyix.in>
+
+### HentaiCSS-Dreamacro
+- Name: Dreamacro
+- Portrait: ![portrait](http://7xkfeo.com1.z0.glb.clouddn.com/haedphoto.jpg)
+- Desc: console.log('hard-working!');
+- Blog: <http://razord.farbox.com>
