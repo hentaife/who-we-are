@@ -38,9 +38,9 @@ self introduction
 - Portrait: ![portrait](http://i1.tietuku.com/a4f216ad1dc4f173.jpg)
 - Desc: 妈个鸡我要写什么
 - Blog: <http://chenyix.in>
-
-### HentaiCSS-Dreamacro
-- Name: Dreamacro
-- Portrait: ![portrait](http://7xkfeo.com1.z0.glb.clouddn.com/haedphoto.jpg)
-- Desc: console.log('hard-working!');
-- Blog: <http://razord.farbox.com>
+ 
+### HentaiCSS-Okiilemon
+- Name: Okiilemon
+- Portrait: ![portrait](http://tp1.sinaimg.cn/1767840284/180/5701939528/0)
+- Desc: 一 一个爱生活也爱coding的前端程序媛 
+- Blog: <http://fehacker.com>
