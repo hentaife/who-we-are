@@ -29,6 +29,6 @@ self introduction
 
 ### HentaiJS-芊芊
 - Name: chyancheng
-- Portrait: ![portrait](http://7xi66m.com1.z0.glb.clouddn.com/chyancheng.jpg)
+- Portrait: ![portrait](http://7xi66m.com1.z0.glb.clouddn.com/portrait.jpg)
 - Desc: 努力入门的前端
 - Blog: <http://chyancheng.github.io>
