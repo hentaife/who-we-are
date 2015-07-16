@@ -44,3 +44,9 @@ self introduction
 - Portrait: ![portrait](http://tp1.sinaimg.cn/1767840284/180/5701939528/0)
 - Desc: 一 一个爱生活也爱coding的前端程序媛 
 - Blog: <http://fehacker.com>
+
+### HentaiJS-箱子
+- Name: TinyBox
+- Portrait: ![portrait](images/nighting.jpg)
+- Desc: 一身杂技的玩家
+- Blog: <http://www.cnblogs.com/TinyBox>
